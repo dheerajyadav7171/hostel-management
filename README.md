@@ -10,3 +10,5 @@ This Project is a part of DBMS Course
 * Hostel Mess Cancellation/Maintainance
 * Transaction - Payment Section
 * Role Based Access - Admin, Employee, Student
+
+Doc : https://docs.google.com/document/d/1UTZrLCnHkvD3X3GK7NPnc_C7FIPcFFZJrRUjhtx3ykw/edit?tab=t.0
